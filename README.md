@@ -1,4 +1,4 @@
-## HI I'M CORAL 👋😸
+## HI I'M CORAL 👋🐱‍💻
 
 - 🌱 I am currently learning <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#45b8d8" href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"><u>JavaScript</u></a>
 
