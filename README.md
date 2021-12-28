@@ -1,6 +1,7 @@
-## HI I'M CORAL 👋🐱‍💻
+## HI I'M CORAL 👋🐱
 
 - 🌱 I am currently learning <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#45b8d8" href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"><u>JavaScript</u></a>
+- 🐱‍💻 I like cats and horror movies👽
 
 <h2 align="left">🌎&nbsp;How to contact me:</h2>
 <a href="mailto:n.coral.padilla2.0@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
